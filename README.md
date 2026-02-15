@@ -36,5 +36,5 @@ Conquistar minha primeira oportunidade em Infra/Cloud/DevOps e crescer com consi
 ---
 
 ## 📫 Contato
-- LinkedIn: (colocar aqui quando quiser)
+- LinkedIn: https://www.linkedin.com/in/kleberson-souza-a5879755/
 
